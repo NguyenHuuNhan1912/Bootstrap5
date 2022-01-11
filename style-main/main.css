@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --bg-main: linear-gradient(to right,blueviolet,blue);
+}
+body{
+    background-color: rgb(26, 24, 24);
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Signika', sans-serif;
+}
+/* Style - Header */
+.header{
+    color: white;
+    text-align: center;
+    padding: 20px 0 5px;
+    text-transform: uppercase;
+    background-image: var(--bg-main);
+}
+
+/* Style - Footer */
+.footer{
+    background-image: var(--bg-main);
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+    margin: 0 !important;
+}
+.footer__copyright{
+    font-size: 1.8rem;
+}
+.footer__w3schools{
+    color: inherit;
+}
+.footer__w3schools:hover{
+    color: pink;
+}
+
+/* Responsive */
+@media screen and (max-width: 767px){
+    .header__title,.footer__copyright{
+        font-size: 1.5rem;
+    }
+} 
