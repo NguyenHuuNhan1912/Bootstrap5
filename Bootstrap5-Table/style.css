@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+.container{
+    padding: 30px 10px;
+}
+.table{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.table-title{
+    text-transform: uppercase;
+}
+[class^='bootstrap5-table-']+[class^='bootstrap5-table-']{
+    margin-top: 30px;
+}
