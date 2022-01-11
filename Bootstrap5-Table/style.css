@@ -14,3 +14,11 @@ body{
 [class^='bootstrap5-table-']+[class^='bootstrap5-table-']{
     margin-top: 30px;
 }
+@media screen and (max-width: 575px){
+    .container{
+        font-size: 62.5%;
+    }
+    .table-title{
+        font-size: 18px;
+    }
+} 

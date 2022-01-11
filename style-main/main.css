@@ -20,7 +20,9 @@ body{
     text-transform: uppercase;
     background-image: var(--bg-main);
 }
-
+.header__title{
+    font-size: 30px;
+}
 /* Style - Footer */
 .footer{
     background-image: var(--bg-main);
