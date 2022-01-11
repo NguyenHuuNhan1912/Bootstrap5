@@ -24,3 +24,9 @@
 *Made by [Nguyen Huu Nhan](https://information.nhancoder.repl.co/)*
 
 *References by [W3shools](https://www.w3schools.com/)*
+
+<img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/bootstrap5-2-icon.png?raw=true" width ="38">
+<img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/html5.png?raw=true" width ="38">
+<img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/css3.png?raw=true" width ="38">
+<img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/js.png?raw=true" width ="38">
+<img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/sass.png?raw=true" width ="38">
