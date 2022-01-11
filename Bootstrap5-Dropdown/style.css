@@ -61,9 +61,6 @@
 }
 /* Responsive - mobile*/
 @media screen and (max-width: 767px){
-    .header__title,.footer__copyright{
-        font-size: 1.2rem;
-    }
     .dropdown-select,.dropdown-item{
         width: 280px;
         font-size: 1.2rem;
