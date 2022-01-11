@@ -48,7 +48,4 @@
         transform: initial;
         border: 3px solid white;
     }
-    .header__title,.footer__copyright{
-        font-size: 1.2rem;
-    }
 } 
