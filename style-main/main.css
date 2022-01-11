@@ -39,7 +39,7 @@ body{
     color: pink;
 }
 
-/* Responsive */
+/* Responsive Mobile*/
 @media screen and (max-width: 767px){
     .header__title,.footer__copyright{
         font-size: 1.2rem;
