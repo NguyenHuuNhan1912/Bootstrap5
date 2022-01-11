@@ -1,7 +1,22 @@
-body{
-    background-color: white;
+.navs{
+    padding: 50px 20px;    
+    color: white;
+    text-transform: uppercase;
 }
-.container{
-    border: 1px solid red;
-    padding: 50px;
+.navs > [class^='navs__'] + [class^='navs__']{
+    margin-top: 50px;
+}
+.nav-title{
+    padding-bottom: 20px;
+}
+img{
+    width: 100%;
+    margin-top: 20px;
+    border: 2px solid white;
+}
+.nav-tabs>li{
+    border: none;
+}
+ul>li{
+    border: 1px solid white;
 }
