@@ -42,6 +42,6 @@ body{
 /* Responsive */
 @media screen and (max-width: 767px){
     .header__title,.footer__copyright{
-        font-size: 1.22rem;
+        font-size: 1.2rem;
     }
 } 
