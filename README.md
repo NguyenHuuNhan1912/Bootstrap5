@@ -9,3 +9,9 @@
 * [Offcanvas in Bootstrap-5](https://github.com/NguyenHuuNhan1912/Bootstrap5/tree/main/Bootstrap5-Offcanvas)
 * [Dropdown in Bootstrap-5](https://github.com/NguyenHuuNhan1912/Bootstrap5/tree/main/Bootstrap5-Dropdown)
 * [Grid-System in Bootstrap-5](https://github.com/NguyenHuuNhan1912/Bootstrap5/tree/main/Bootstrap5-Grid)
+
+<hr>
+
+* Made by [Nguyen Huu Nhan](https://information.nhancoder.repl.co/) *
+
+* References by [W3shools](https://www.w3schools.com/) *
