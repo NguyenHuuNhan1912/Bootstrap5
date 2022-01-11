@@ -1,6 +1,6 @@
 
-# <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/bootstrap5-icon.png?raw=true" width ="60" heigh="60"> Bootstrap5 - Framework CSS <hr>
-## Github Pages
+# <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/bootstrap5-icon.png?raw=true" width ="50" heigh="50"> Bootstrap5 - Framework CSS <hr>
+## <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/github.png?raw=true" width ="50" heigh="50"> Github Pages <hr>
 * [Button in Bootstrap-5](https://nguyenhuunhan1912.github.io/Bootstrap5/Bootstrap5-Button/index.html)
 * [Offcanvas in Bootstrap-5](https://nguyenhuunhan1912.github.io/Bootstrap5/Bootstrap5-Offcanvas/index.html)
 * [Dropdown in Bootstrap-5](https://nguyenhuunhan1912.github.io/Bootstrap5/Bootstrap5-Dropdown/index.html)
