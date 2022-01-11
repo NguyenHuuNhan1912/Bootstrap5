@@ -1,7 +1,7 @@
 
-# <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/bootstrap5-icon.png?raw=true" width ="36"> Bootstrap5 - Framework CSS 
+# <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/bootstrap5-icon.png?raw=true" width ="38"> Bootstrap5 - Framework CSS 
 
-## <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/github.png?raw=true" width ="50" heigh="50"> Github Pages 
+## <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/github.png?raw=true" width ="38"> Github Pages 
 * [Button in Bootstrap-5](https://nguyenhuunhan1912.github.io/Bootstrap5/Bootstrap5-Button/index.html)
 * [Offcanvas in Bootstrap-5](https://nguyenhuunhan1912.github.io/Bootstrap5/Bootstrap5-Offcanvas/index.html)
 * [Dropdown in Bootstrap-5](https://nguyenhuunhan1912.github.io/Bootstrap5/Bootstrap5-Dropdown/index.html)
@@ -10,7 +10,7 @@
 * [Carousel/Slider in Bootstrap-5](https://nguyenhuunhan1912.github.io/Bootstrap5/Bootstrap5-Carousel/index.html)
 * [Table in Bootstrap-5](https://nguyenhuunhan1912.github.io/Bootstrap5/Bootstrap5-Table/index.html)
 
-## <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/devc-icon.png?raw=true" width ="50" heigh="50"> CODE
+## <img src="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS/blob/main/Icon/devc-icon.png?raw=true" width ="38"> CODE
 * [Button in Bootstrap-5](https://github.com/NguyenHuuNhan1912/Bootstrap5/tree/main/Bootstrap5-Button)
 * [Offcanvas in Bootstrap-5](https://github.com/NguyenHuuNhan1912/Bootstrap5/tree/main/Bootstrap5-Offcanvas)
 * [Dropdown in Bootstrap-5](https://github.com/NguyenHuuNhan1912/Bootstrap5/tree/main/Bootstrap5-Dropdown)
