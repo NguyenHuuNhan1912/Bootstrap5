@@ -1,0 +1,63 @@
+.container-fluid{
+    padding: 50px;
+}
+.carousel{
+    border: 2px solid white;
+    border-radius: 10px;
+    overflow: auto;
+}
+.carousel-indicators>button{
+    background-color: #ffff00 !important;
+    border: 2px solid red !important;
+    height: 5px !important;   
+}
+.carousel-caption__title{
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    text-shadow: 5px -5px 10px red !important;
+}
+.carousel-caption__des{
+    font-size: 2rem;
+    text-shadow: 5px -5px 10px blue !important;
+}
+[class^='carousel-caption__']{
+    transition: all 0.3s linear;
+}
+[class^='carousel-caption__']:hover{
+    transform: scale(1.1) !important;
+}
+.pre-icon,.next-icon{
+    font-size: 2rem;
+}
+.pre-icon:hover,.next-icon:hover{
+    background-color: black;
+    color: yellow;
+    border-radius: 20px;
+}
+/* Responsive */
+/* lg - ipadpro */
+@media screen and (max-width: 1199px){
+    .footer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }    
+}   
+/* sm - mobile */
+@media screen and (max-width: 767px){
+    .container-fluid{
+        padding: 20px;
+    }
+    .pre-icon,.next-icon{
+        font-size: 1.2rem;
+    }
+    .carousel-caption__title{
+        font-size: 1.5rem;
+    }
+    .carousel-caption__des{
+        font-size: 1.2rem;
+    }
+    .carousel-indicators>button{
+        height: 2px !important;   
+    }
+}
