@@ -12,6 +12,6 @@
 
 <hr>
 
-* Made by [Nguyen Huu Nhan](https://information.nhancoder.repl.co/) *
+*Made by [Nguyen Huu Nhan](https://information.nhancoder.repl.co/)*
 
-* References by [W3shools](https://www.w3schools.com/) *
+*References by [W3shools](https://www.w3schools.com/)*
