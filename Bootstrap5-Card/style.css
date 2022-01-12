@@ -1,0 +1,25 @@
+.container{
+    border: 1px solid red;
+    padding: 0;
+}
+.card-header{
+    padding: 0;
+}
+.card-title{
+    color: yellow !important;
+    text-shadow: 5px -5px 10px red;
+    font-size: 2.2rem;
+}
+.card-text{
+    font-size: 1.3rem;
+    color: white !important;
+    text-shadow: 5px -5px 10px red;
+}
+
+/* Responsive */
+/* xm - min - mobile */
+@media screen and (max-width: 767px){
+    html{
+        font-size: 75%;
+    }
+}
